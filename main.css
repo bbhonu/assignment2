@@ -1,0 +1,25 @@
+body {
+	background-color: rgba(199,232,241,1);
+}
+
+#message {
+
+	font-size: 20px;
+
+}
+
+#nomessages {
+	font-size: 10px;
+	color: grey;
+
+}
+
+
+/*//make disappear after a few minutes? / invisible ink?
+*/#messages {
+
+	font-size: 30px;
+
+}
+
+
